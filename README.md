@@ -13,18 +13,6 @@ Gush is a rapid workflow for project maintainers and contributors
 
 <img src="https://f.cloud.github.com/assets/328359/1930603/3bd6fec6-7eb0-11e3-9945-f41820336d8c.png" alt="Gush logo"  width="200px"/>
 
-Logo courtesy from [@maxakawizard](https://twitter.com/MAXakaWIZARD) and [@kotosharic](https://twitter.com/kotosharic)
-
-*Logo explanation is best depicted from this passage from Psalm 78*:
-
-True, he struck the rock, and water gushed out, streams flowed abundantly, but can he also give us bread?
-Can he supply meat for his people?” When the Lord heard them, he was furious; his fire broke out against
-Jacob, and his wrath rose against Israel, for they did not believe in God or trust in his deliverance.
-
-There first thread of blood and the following are water gushing out of a rock, connecting the Old Testament
-prophecy fulfillment in the New Testament at the cross when Jesus was opened on his side and gushed out
-water and blood.
-
 ### What is this?
 
 Gush is an app console whose intention is to automate common maintainer and contributor tasks.
@@ -145,3 +133,18 @@ See the [issues](https://github.com/cordoval/gush/issues?state=open).
 
 Join the [Mailing List](https://groups.google.com/forum/#!forum/gushphp)
 and also on IRC channel #gushphp for discussions and questions.
+
+### Credits
+
+Logo courtesy of [@maxakawizard](https://twitter.com/MAXakaWIZARD) and 
+[@kotosharic](https://twitter.com/kotosharic)
+
+*Logo explanation is best depicted from this passage from Psalm 78*:
+
+> True, he struck the rock, and water gushed out, streams flowed abundantly, but can he also give us bread?
+> Can he supply meat for his people?” When the Lord heard them, he was furious; his fire broke out against
+> Jacob, and his wrath rose against Israel, for they did not believe in God or trust in his deliverance.
+
+> There first thread of blood and the following are water gushing out of a rock, connecting the Old Testament
+> prophecy fulfillment in the New Testament at the cross when Jesus was opened on his side and gushed out
+> water and blood.
